@@ -1,6 +1,8 @@
 body {
   color: azure;
   background: black;
+  font-family: 'Bree Serif', serif;
+
 }
 .heart {
   width: 20px;
